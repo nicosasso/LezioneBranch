@@ -1,2 +1,3 @@
 Gli alberi hanno i rami ma i rami non hanno gli alberi
 I rami non hanno gli alberi ma gli alberi hanno i rami
+Le foglie hanno i rami, i rami non hanno gli alberi e gli alberi hanno foglie e rami
